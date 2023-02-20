@@ -1,4 +1,4 @@
-package org.pinson.gridgames.core;
+package com.pinson.gridgames.core;
 
 import org.junit.jupiter.api.Test;
 
