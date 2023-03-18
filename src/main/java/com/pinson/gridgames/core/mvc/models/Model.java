@@ -1,4 +1,8 @@
 package com.pinson.gridgames.core.mvc.models;
 
-public class Model {
+public class Model implements IModel {
+
+    public Model() {
+
+    }
 }
