@@ -1,10 +1,10 @@
-package com.pinson.gridgames.core.grids;
+package com.pinson.gridgames.core.models.grids;
 
 import com.pinson.gridgames.core.exceptions.NonPositiveValueException;
-import com.pinson.gridgames.core.grids.exceptions.GridIndexOutOfBoundsException;
+import com.pinson.gridgames.core.models.grids.exceptions.GridIndexOutOfBoundsException;
 import com.pinson.gridgames.core.mvc.models.Model;
-import com.pinson.gridgames.core.tiles.ITile;
-import com.pinson.gridgames.core.tiles.Tile;
+import com.pinson.gridgames.core.models.tiles.ITile;
+import com.pinson.gridgames.core.models.tiles.Tile;
 
 import java.util.ArrayList;
 

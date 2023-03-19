@@ -1,13 +1,11 @@
-package com.pinson.gridgames.core.grids;
+package com.pinson.gridgames.core.models.grids;
 
 import com.pinson.gridgames.core.exceptions.NonPositiveValueException;
-import com.pinson.gridgames.core.grids.exceptions.GridIndexOutOfBoundsException;
-import com.pinson.gridgames.core.tiles.ITile;
-import com.pinson.gridgames.core.tiles.Tile;
+import com.pinson.gridgames.core.models.grids.exceptions.GridIndexOutOfBoundsException;
+import com.pinson.gridgames.core.models.tiles.ITile;
+import com.pinson.gridgames.core.models.tiles.Tile;
 import org.junit.jupiter.api.Test;
-
 import java.util.ArrayList;
-
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotNull;
 import static org.junit.jupiter.api.Assertions.assertThrowsExactly;

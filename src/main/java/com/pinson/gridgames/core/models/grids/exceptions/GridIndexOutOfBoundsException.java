@@ -1,4 +1,4 @@
-package com.pinson.gridgames.core.grids.exceptions;
+package com.pinson.gridgames.core.models.grids.exceptions;
 
 public class GridIndexOutOfBoundsException extends IndexOutOfBoundsException {
 

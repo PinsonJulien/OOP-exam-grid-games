@@ -1,4 +1,4 @@
-package com.pinson.gridgames.core.tiles;
+package com.pinson.gridgames.core.models.tiles;
 
 public interface ITile {
     int getRow();

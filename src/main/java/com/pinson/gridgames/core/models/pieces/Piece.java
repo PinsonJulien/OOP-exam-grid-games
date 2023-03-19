@@ -1,4 +1,4 @@
-package com.pinson.gridgames.core.pieces;
+package com.pinson.gridgames.core.models.pieces;
 
 import com.pinson.gridgames.core.mvc.models.Model;
 

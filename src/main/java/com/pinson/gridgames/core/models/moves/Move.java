@@ -1,4 +1,4 @@
-package com.pinson.gridgames.core.moves;
+package com.pinson.gridgames.core.models.moves;
 
 import com.pinson.gridgames.core.mvc.models.Model;
 

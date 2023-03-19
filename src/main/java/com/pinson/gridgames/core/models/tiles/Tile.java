@@ -1,4 +1,4 @@
-package com.pinson.gridgames.core.tiles;
+package com.pinson.gridgames.core.models.tiles;
 
 import com.pinson.gridgames.core.mvc.models.Model;
 

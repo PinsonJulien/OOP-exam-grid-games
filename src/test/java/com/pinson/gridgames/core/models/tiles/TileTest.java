@@ -1,4 +1,4 @@
-package com.pinson.gridgames.core.tiles;
+package com.pinson.gridgames.core.models.tiles;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
