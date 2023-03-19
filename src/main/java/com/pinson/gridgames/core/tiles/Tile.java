@@ -19,8 +19,9 @@ public class Tile extends Model implements ITile {
     }
 
     @Override
-    public void setRow(int row) {
+    public ITile setRow(int row) {
         this.row = row;
+        return this;
     }
 
     @Override
@@ -29,8 +30,9 @@ public class Tile extends Model implements ITile {
     }
 
     @Override
-    public void setColumn(int column) {
+    public ITile setColumn(int column) {
         this.column = column;
+        return this;
     }
 
     @Override
